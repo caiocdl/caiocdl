@@ -12,23 +12,17 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocdl&show_icons=true&theme=gotham)
 
 ###
-#
 
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/caiocdl/caiocdl/assets/94991631/30cbdf5b-7591-4042-afc8-dca3f21c1621" alt="Imagem">
+</p>
 
 
 ![snake gif](https://github.com/caiocdl/caiocdl/blob/output/github-contribution-grid-snake.gif)
 
 
-
-
-
-
-
-#
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/caiocdl/caiocdl/assets/94991631/30cbdf5b-7591-4042-afc8-dca3f21c1621" alt="Imagem">
-</p>
 
 
 ## 🔥 Skills
@@ -47,8 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
-
-
 
 
 
