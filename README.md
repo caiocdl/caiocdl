@@ -1,6 +1,13 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h4>Olá! Eu sou o Caio Cesar</h4><BR>
+💻 Dev Front-end web development<br>
+📚 Cursando Ciencia da computação<br>
+🃏 Aprendendo um pouco de tudo<br>
+<br>
 
-###
+
+
+
+
 <div align="left">
   <a href="https://www.instagram.com/caio_cesar019/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
