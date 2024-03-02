@@ -16,6 +16,7 @@
 
 
 
+![snake gif](https://github.com/caiocdl/caiocdl/blob/output/github-contribution-grid-snake.gif)
 
 
 
