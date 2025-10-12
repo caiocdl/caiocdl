@@ -1,7 +1,7 @@
 <h4>Olá! Eu sou o Caio Cesar</h4><BR>
 💻 Dev Front-end web development<br>
 📚 Cursando Análise e Desenvolvimento de Sistemas<br>
-🃏 Aprendendo um pouco de tudo<br>
+🃏 
 <br>
 
 
